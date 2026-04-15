@@ -1,0 +1,23 @@
+{
+  "full_name": "David Inyang-Etoh",
+  "name": "David (Mr Dee)",
+  "current_role": "Senior Software Engineer / AI Engineer",
+  "location": "Uyo, Nigeria",
+  "email": "dinyangetoh@gmail.com",
+  "linkedin": "linkedin.com/in/david-inyang-etoh",
+  "github": "github.com/dinyangetoh",
+  "x": "x.com/dinyangetoh",
+  "specialties": [
+    "Backend Engineering & Distributed Systems",
+    "Cloud Architecture (AWS, Serverless, Containers)",
+    "AI-Assisted Software Engineering & Agentic AI Systems"
+  ],
+  "years_experience": 8,
+  "education": [
+    {
+      "degree": "Bachelor of Engineering (B.Eng) in Mechanical Engineering",
+      "institution": "University of Port Harcourt, Nigeria",
+      "year": "2012"
+    }
+  ]
+}

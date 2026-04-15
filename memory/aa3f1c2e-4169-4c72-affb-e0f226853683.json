@@ -1,0 +1,58 @@
+[
+  {
+    "role": "user",
+    "content": "hi there"
+  },
+  {
+    "role": "assistant",
+    "content": "Hey! Great to see you here. How can I help you today?"
+  },
+  {
+    "role": "user",
+    "content": "my name is alex"
+  },
+  {
+    "role": "assistant",
+    "content": "Nice to meet you, Alex! What brings you to the site today? Anything you'd like to know or chat about?"
+  },
+  {
+    "role": "user",
+    "content": "what is my name"
+  },
+  {
+    "role": "assistant",
+    "content": "You just told me your name is Alex. How can I assist you, Alex?"
+  },
+  {
+    "role": "user",
+    "content": "what is your name"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm David Inyang-Etoh — but since you're here on my site, you can just call me David. What do you want to know or talk about?"
+  },
+  {
+    "role": "user",
+    "content": "what AI skills do you have?"
+  },
+  {
+    "role": "assistant",
+    "content": "Good question. I've built solid AI engineering chops over the years, with a strong focus on large language models, retrieval-augmented generation (RAG), fine-tuning like QLoRA, and building intelligent agents.\n\nI’ve completed multiple in-depth AI certifications on Udemy, including the AI Engineer Core Track, Agentic AI courses, and the Andela Agentic AI Bootcamp — that’s 200+ hours and over 10 projects focused on building multi-agent systems and real-world AI solutions.\n\nPractically, I’ve built products like Vera AI — an autonomous AI conversion agent running on LangGraph with Claude models, vector search via Qdrant, and checkpointing for stateful interactions.\n\nSo, in short: LLMs, agent design & orchestration, RAG pipelines, embeddings, and scalable AI SaaS engineering are my core skills. Anything specific you want to dive into?"
+  },
+  {
+    "role": "user",
+    "content": "what do you do professionally?"
+  },
+  {
+    "role": "assistant",
+    "content": "Professionally, I’m a Senior Full-Stack Engineer, Team Lead, and AI Engineer. I currently contract at Collectwire Technologies, where I work remotely on production-grade systems. \n\nAt the same time, I run Veroliq — my AI SaaS company where I’m building Vera AI, an autonomous AI conversion agent. So I split my time between leading engineering squads, building scalable web apps, and pushing forward on AI products.\n\nMy core tech stack is TypeScript, Node.js, NestJS, React 18, AWS serverless (Lambda, ECS Fargate, Aurora PostgreSQL), and PostgreSQL. Team leadership for squads of 4–7 engineers is part of my bag too.\n\nAnything along those lines you’re curious about?"
+  },
+  {
+    "role": "user",
+    "content": "can you talk about your most recent roles in the last 3 years?"
+  },
+  {
+    "role": "assistant",
+    "content": "Sure thing. Over the last three years, I’ve been deep in full-stack and AI engineering roles, focusing on scalable, production-ready systems with modern stacks.\n\nRight now, I’m contracting at Collectwire Technologies, working remotely on their backend and frontend systems — mostly TypeScript, NestJS, React, and AWS serverless services.\n\nAt the same time, I’ve been building out Veroliq, my AI SaaS company, with the Vera AI product. Vera is live and early-stage; it’s an autonomous AI conversion agent leveraging LangGraph, Claude models, and vector search to help convert website visitors. This has been a big project combining my AI engineering credentials with real-world SaaS product-building.\n\nBefore that, I led squads of engineers building cloud-native apps and APIs, focusing on reliability and clean architecture. My leadership experience centers around managing 4–7 engineers, mentoring them, and driving technical direction.\n\nSo, recent gigs mix hands-on engineering at Collectwire with entrepreneurial AI SaaS building through Veroliq. Let me know if you want details on any of those!"
+  }
+]

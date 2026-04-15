@@ -1,0 +1,42 @@
+[
+  {
+    "role": "user",
+    "content": "hi there",
+    "timestamp": "2026-04-15T04:09:01.878398"
+  },
+  {
+    "role": "assistant",
+    "content": "Hi! Welcome to my site. I\u2019m David (Mr Dee). How can I help you today? Are you interested in my background, skills, or maybe some specific info about my work?",
+    "timestamp": "2026-04-15T04:09:01.878412"
+  },
+  {
+    "role": "user",
+    "content": "I am Matt",
+    "timestamp": "2026-04-15T04:09:22.099931"
+  },
+  {
+    "role": "assistant",
+    "content": "Nice to meet you, Matt. What brings you here today? Are you exploring potential collaboration, looking for mentorship, or just curious about my work in software engineering and AI?",
+    "timestamp": "2026-04-15T04:09:22.099939"
+  },
+  {
+    "role": "user",
+    "content": "What is my name",
+    "timestamp": "2026-04-15T04:09:40.187246"
+  },
+  {
+    "role": "assistant",
+    "content": "You mentioned your name is Matt. How can I assist you further, Matt?",
+    "timestamp": "2026-04-15T04:09:40.187257"
+  },
+  {
+    "role": "user",
+    "content": "tell me about your most recent role and the most complex project/feature you have worked on",
+    "timestamp": "2026-04-15T04:10:54.840980"
+  },
+  {
+    "role": "assistant",
+    "content": "Sure, Matt. Currently, I\u2019m leading the software engineering team at Collectwire, where we built a global payroll SaaS MVP from the ground up. The platform is composed of eight event-driven microservices, and we launched the beta within seven months.\n\nOne of the most complex features I handled was designing and implementing a multi-tenant API with caching layers using RTK Query and Redis. This wasn\u2019t just about coding\u2014it involved careful architecture to cut redundant frontend API calls by roughly 80%, significantly improving both performance and cost-efficiency. On top of that, I drove a major AWS infrastructure cost reduction \u2014 over 60% savings \u2014 by migrating resources with CDK and right-sizing compute workloads.\n\nThis role required balancing rapid delivery with system reliability and scalability, which meant lots of tradeoffs around event-driven design, idempotency, and domain-driven structure to maintain maintainability. \n\nIf you want, I can dive deeper into any of those details or share other projects I find technically stimulating.",
+    "timestamp": "2026-04-15T04:10:54.840989"
+  }
+]
