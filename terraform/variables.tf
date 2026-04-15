@@ -19,7 +19,6 @@ variable "environment" {
 variable "openai_api_key" {
   description = "OpenAI API key"
   type        = string
-  default     = ""
   sensitive   = true
 }
 

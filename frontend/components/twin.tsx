@@ -100,7 +100,7 @@ export default function Twin() {
   const [hasAvatar, setHasAvatar] = useState(false);
   useEffect(() => {
     // Check if avatar.png exists
-    fetch("/davids-avatar.png", { method: "HEAD" })
+    fetch("/avatar.jpg", { method: "HEAD" })
       .then((res) => setHasAvatar(res.ok))
       .catch(() => setHasAvatar(false));
   }, []);
@@ -111,9 +111,11 @@ export default function Twin() {
       <div className="bg-gradient-to-r from-slate-700 to-slate-800 text-white p-4 rounded-t-lg">
         <h2 className="text-xl font-semibold flex items-center gap-2">
           <Bot className="w-6 h-6" />
-          AI Digital Twin
+          David Inyang-Etoh's Digital Twin
         </h2>
-        <p className="text-sm text-slate-300 mt-1">Your AI course companion</p>
+        <p className="text-sm text-slate-300 mt-1">
+          Mr Dee's Digital Assistant
+        </p>
       </div>
 
       {/* Messages */}
@@ -122,15 +124,17 @@ export default function Twin() {
           <div className="text-center text-gray-500 mt-8">
             {hasAvatar ? (
               <img
-                src="/avatar.png"
+                src="/davids-avatar.png"
                 alt="Digital Twin Avatar"
                 className="w-20 h-20 rounded-full mx-auto mb-3 border-2 border-gray-300"
               />
             ) : (
               <Bot className="w-12 h-12 mx-auto mb-3 text-gray-400" />
             )}
-            <p>Hello! I'm your Digital Twin.</p>
-            <p className="text-sm mt-2">Ask me anything about AI deployment!</p>
+            <p>Hello! I'm David's Digital Twin.</p>
+            <p className="text-sm mt-2">
+              Ask me anything about my career and projects!
+            </p>
           </div>
         )}
 
